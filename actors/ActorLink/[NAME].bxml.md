@@ -54,7 +54,7 @@
   
   ## ``Tags`` Properties
   
-  The ``Tags`` node contains tags/flags for other information, data and behavior where no node is available in ``LinkTarget``.
+  The ``Tags`` node contains tags/flags for additional information, data and behavior where no node is available in ``LinkTarget``.
   
   |Tag|Description|
   |---|-----------|
