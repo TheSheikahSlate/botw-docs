@@ -1,4 +1,4 @@
-# ActorLink/[NAME].bxml
+# Actor/ActorLink/[NAME].bxml
   
   The ``[NAME].bxml`` (Example: ``Enemy_Guardian_A.bxml``) inside the ActorLink folder is primarily used to link several parts of the
   actor together, specify locations of data, and the listings of several tags/flags used for this actor.
