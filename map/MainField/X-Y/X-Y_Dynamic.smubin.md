@@ -2,9 +2,8 @@
 
 ## General Information
 
-- Compression: `SARC`
-- Internal Format: `BY` (binary yaml)
-
+- Compression: ``BYML``
+- Yaz0-Encoded: ``Yes``
 ## Layout
 
 X-Y_Dynamic.smubin files have a root node Objs with multiple dictionaries (arrays / hash tables) describing map unit objects (i.e. trees, items, mountains, etc.).
